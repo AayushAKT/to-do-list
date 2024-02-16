@@ -25,7 +25,7 @@ body{
     padding: 2rem;
     gap: 2rem;
     overflow: auto;
-    scrollbar-width: none
+    scrollbar-width: none;
 }
 
 .heading{
@@ -80,6 +80,7 @@ ul li{
     padding: 12px 8px 12px 30px;
     display: flex;
     align-items: center;
+    padding-right: 3rem;
 }
 
 ul li:hover{
